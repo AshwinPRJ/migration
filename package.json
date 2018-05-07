@@ -1,0 +1,20 @@
+{
+  "name": "mocktest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ingredient_code.js",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "chai": "^4.1.2",
+    "chai-http": "^3.0.0",
+    "csvtojson": "^1.1.9",
+    "json-concat": "^0.0.1",
+    "log4js": "^2.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
